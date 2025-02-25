@@ -1,0 +1,50 @@
+Ngày,Mặt hàng,Loại,Số lượng,Giá trị,Người chi,Note (người share),Each,Hóa đơn
+2025-02-20 00:00:00,Giấy ăn,Đồ gia dụng,1,4.8,Hoàng,"Hiếu, Khải, Minh, An, Hải",0.7999999999999999,
+2025-02-19 00:00:00,Trứng,Thực phẩm,1,7.0,Hải,"Hải, Hoàng, Hiếu, Minh",1.75,
+2025-02-19 00:00:00,Bao rác,Đồ gia dụng,1,5.0,Hải,"Hoàng, Hiếu, Khải, Minh, An",0.8333333333333334,
+2025-02-20 00:00:00,Màng bọc thực phẩm,Đồ gia dụng,1,1.65,Hoàng,"Hiếu, Minh, An, Hải",0.3299999999999999,
+2025-02-19 00:00:00,Gà nướng,Thực phẩm,1,9.0,Hải,"Hải, Hoàng, Hiếu, Minh",2.25,
+2025-02-20 00:00:00,Móc treo đồ,Đồ gia dụng,12,2.0,Minh,"Hoàng, Hiếu, Khải, Minh, An, Hải",0.3,
+2025-02-20 00:00:00,Móc áo nhỏ ,Đồ gia dụng,48,2.0,Minh,"Hoàng, Hiếu, Khải, Minh, An, Hải",0.3,
+2025-02-20 00:00:00,Ly,Đồ gia dụng,4,1.0,Minh,"Hoàng, Minh, An",0.3,
+2025-02-20 00:00:00,Giấy vệ sinh,Đồ gia dụng,1,13.0,Hoàng,"Hoàng, Hiếu, Khải, Minh, An, Hải",2.17,
+2025-02-20 00:00:00,Đùi gà coles,Thực phẩm,1,10.58,Hoàng,"Hải, Hoàng, Hiếu, Minh",2.65,
+2025-02-20 00:00:00,Thịt heo xay,Thực phẩm,2,15.0,Hoàng,"Hải, Hoàng, Hiếu, Minh",3.75,
+2025-02-20 00:00:00,Nước sốt ớt ngọt Coles 500ml ,Thực phẩm,1,2.1,Hoàng,"Hoàng, Hiếu, Khải, Minh, An, Hải",0.35,
+2025-02-20 00:00:00,Súp lơ trắng ,Thực phẩm,1,3.5,Hoàng,"Hải, Hoàng, Hiếu, Minh",0.88,
+2025-02-21 00:00:00,Bill Coles,Thực phẩm,5,26.33,Hải,"Hải, Hoàng, Hiếu, Minh",6.58,21/2/25
+2025-02-21 00:00:00,Bill Coles,Đồ gia dụng,4,19.18,Hải,"Hoàng, Hiếu, Minh, An, Hải",3.84,
+2025-02-21 00:00:00,Bill Woolworths,Thực phẩm,1,1.85,Hải,"Hải, Hoàng, Hiếu, Minh",0.46,
+2025-02-21 00:00:00,Bill Woolworths,Đồ gia dụng,5,30.6,Hải,"Hoàng, Hiếu, Minh, An, Hải",6.12,
+,Nồi cơm,Đồ gia dụng,1,14.0,Hải,"Hoàng, Hiếu, Minh, An, Hải",2.8,
+,Túi đi chợ,Đồ gia dụng,3,9.0,Hải,"Hoàng, Hiếu, Minh, An, Hải",1.8,
+2025-02-22 00:00:00,Hộp đựng gia vị,Đồ gia dụng,2,3.0,Hiếu,"Hoàng, Hiếu, Hải, Minh, An",0.6,source/images/22022025-171922.jpg
+2025-02-22 00:00:00,Khay đá,Đồ gia dụng,2,3.5,Hiếu,"Hoàng, Minh, An, Hải, Hiếu",0.7,source/images/22022025-172006.jpg
+2025-02-22 00:00:00,Tôm + knor,Thực phẩm,1,24.38,Hiếu,"Hoàng, Hiếu, Hải, Minh, An",4.876,source/images/22022025-173022.jpg
+2025-02-22 00:00:00,Khay đựng đồ vệ sinh cá nhân (3 cái),Đồ gia dụng,3,2.0,Hiếu,"Minh, Hải, An",0.6666666666666666,source/images/22022025-173214.jpg
+2025-02-22 00:00:00,Gạo dưa hấu,Thực phẩm,3,18.5,Hiếu,"Hoàng, Minh, An, Hiếu",4.625,source/images/22022025-173951.jpg
+2025-02-23 00:00:00,Bò băm,Thực phẩm,1,20.63,Hải,"Hoàng, Hiếu, Hải, Minh, An",4.126,source/images/23022025-122311.jpg
+2025-02-23 00:00:00,Bò xào,Thực phẩm,1,8.62,Hải,"Hoàng, Hiếu, Hải, Minh",2.155,source/images/23022025-122414.jpg
+2025-02-23 00:00:00,Sốt cà chua pasta ,Thực phẩm,1,2.69,Hải,"Hoàng, Hiếu, Hải, Minh, An",0.538,source/images/23022025-122552.jpg
+2025-02-23 00:00:00,Đùi gà sốt,Thực phẩm,1,8.99,Hải,"Hoàng, Hiếu, Hải, Minh, An",1.798,source/images/23022025-122733.jpg
+2025-02-23 00:00:00,Hành củ,Thực phẩm,1,4.49,Hải,"Hoàng, Hiếu, Hải, Minh, An",0.898,source/images/23022025-122910.jpg
+2025-02-23 00:00:00,Pasta xoắn,Thực phẩm,1,0.89,Hải,"Hoàng, Hiếu, Hải, Minh, An",0.178,source/images/23022025-122955.jpg
+2025-02-23 00:00:00,Pasta thẳng,Thực phẩm,1,0.99,Hải,"Hoàng, Hiếu, Hải, Minh, An",0.198,source/images/23022025-123010.jpg
+2025-02-23 00:00:00,Sữa,Thực phẩm,1,4.35,Hải,"Hoàng, Hiếu, Hải, Minh",1.0875,source/images/23022025-123355.jpg
+2025-02-23 00:00:00,Dầu hào,Thực phẩm,1,3.95,Hiếu,"Hoàng, Hiếu, Hải, Minh, An",0.79,source/images/23022025-123513.jpg
+2025-02-23 00:00:00,Tiêu đen xay,Thực phẩm,1,3.5,Hiếu,"Hoàng, Hiếu, Hải, Minh, An",0.7,source/images/23022025-123530.jpg
+2025-02-23 00:00:00,kem,Thực phẩm,1,6.99,Hải,"Hoàng, Hải",3.495,source/images/23022025-155651.jpg
+2025-02-23 00:00:00,Dầu gội,Đồ gia dụng,1,10.5,Hải,Hoàng,10.5,source/images/23022025-155722.jpg
+2025-02-23 00:00:00,Sữa tắm,Đồ gia dụng,1,8.39,Hải,Hoàng,8.39,source/images/23022025-155749.jpg
+2025-02-23 00:00:00,Cà phê,Thực phẩm,1,4.28,Hải,Hoàng,4.28,source/images/23022025-155812.jpg
+2025-02-23 00:00:00,Juice,Thực phẩm,1,6.17,Hải,Hoàng,6.17,source/images/23022025-155835.jpg
+2025-02-23 00:00:00,Kem chống nắng,Đồ gia dụng,1,21.0,Hải,Hiếu,21.0,source/images/24022025-103115.jpg
+2025-02-23 00:00:00,Băng keo,Đồ gia dụng,1,5.0,Hải,Hiếu,5.0,source/images/24022025-103202.jpg
+2025-02-25 00:00:00,Bánh donut,Thực phẩm,1,3.5,Hải,Hải,3.5,source/images/25022025-215215.jpg
+2025-02-25 00:00:00,Thịt kangaroo,Thực phẩm,1,11.5,Hải,"Hoàng, Hiếu, Hải, Minh, An",2.3,source/images/25022025-215330.jpg
+2025-02-25 00:00:00,Thịt gà chiên,Thực phẩm,1,11.0,Hải,"Hoàng, Hiếu, Hải, Minh, An",2.2,source/images/25022025-215404.jpg
+2025-02-25 00:00:00,Sữa chúi,Thực phẩm,1,10.0,Hải,Hoàng,10.0,source/images/25022025-215442.jpg
+2025-02-25,mì indo,Thực phẩm,1,3.95,Hải,"Hoàng, Hải",1.975,source/images/25022025-215523.jpg
+2025-02-25 00:00:00,sốt chua ngọt,Đồ gia dụng,1,2.1,Hải,"Hoàng, Hiếu, Hải, Minh, An",0.42,source/images/25022025-215606.jpg
+2025-02-25 00:00:00,cà ri,Thực phẩm,1,4.0,Hải,Hiếu,4.0,source/images/25022025-215716.jpg
+2025-02-25 00:00:00,kitkat,Thực phẩm,2,4.0,Hải,Hoàng,4.0,source/images/25022025-215832.jpg
